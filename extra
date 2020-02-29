@@ -1,0 +1,60 @@
+<List.Item>
+                                    <List.Icon name='check circle' size='large' verticalAlign='middle' style={{color:'green'}} />
+                                    <List.Content>
+                                        <List.Header style={{color:'blue'}}>Admission Receipt Uploaded</List.Header>
+                                    </List.Content>
+                                </List.Item>
+                                <List.Item>
+                                    <List.Icon name='times' size='large' verticalAlign='middle' style={{color:'red'}} />
+                                    <List.Content>
+                                        <List.Header style={{color:'blue'}}>Admission Receipt Rejected, Re-upload</List.Header>
+                                    </List.Content>
+                                </List.Item>
+                                <List.Item>
+                                    <List.Icon name='check circle' size='large' verticalAlign='middle' style={{color:'green'}} />
+                                    <List.Content>
+                                        <List.Header style={{color:'blue'}}>Admission Receipt Accepted</List.Header>
+                                    </List.Content>
+                                </List.Item>
+                                <List.Item>
+                                    <List.Icon name='check circle' size='large' verticalAlign='middle' style={{color:'green'}} />
+                                    <List.Content>
+                                        <List.Header style={{color:'blue'}}>Bank Selected</List.Header>
+                                    </List.Content>
+                                </List.Item>
+                                <List.Item>
+                                    <List.Icon name='check circle' size='large' verticalAlign='middle' style={{color:'green'}} />
+                                    <List.Content>
+                                        <List.Header style={{color:'blue'}}>Documents Uploaded</List.Header>
+                                    </List.Content>
+                                </List.Item>
+                                <List.Item>
+                                    <List.Icon name='times' size='large' verticalAlign='middle' style={{color:'red'}} />
+                                    <List.Content>
+                                        <List.Header style={{color:'blue'}}>Documents Rejected, Re-upload</List.Header>
+                                    </List.Content>
+                                </List.Item>
+                                <List.Item>
+                                    <List.Icon name='check circle' size='large' verticalAlign='middle' style={{color:'green'}} />
+                                    <List.Content>
+                                        <List.Header style={{color:'blue'}}>Documents are Varified</List.Header>
+                                    </List.Content>
+                                </List.Item>
+                                <List.Item>
+                                    <List.Icon name='check circle' size='large' verticalAlign='middle' style={{color:'green'}} />
+                                    <List.Content>
+                                        <List.Header style={{color:'blue'}}>Apply for session fee</List.Header>
+                                    </List.Content>
+                                </List.Item>
+                                <List.Item>
+                                    <List.Icon name='check circle' size='large' verticalAlign='middle' style={{color:'green'}} />
+                                    <List.Content>
+                                        <List.Header style={{color:'blue'}}>session amount successfully entered</List.Header>
+                                    </List.Content>
+                                </List.Item>
+                                <List.Item>
+                                    <List.Icon name='check circle' size='large' verticalAlign='middle' style={{color:'green'}} />
+                                    <List.Content>
+                                        <List.Header style={{color:'blue'}}>session fee sectioned successfully</List.Header>
+                                    </List.Content>
+                                </List.Item>
